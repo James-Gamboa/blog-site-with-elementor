@@ -1,0 +1,12 @@
+/* Limit title to maximum 3 lines */
+selector .elementor-heading-title {
+	-webkit-line-clamp: 3;
+	overflow: hidden;
+	display: -webkit-box;
+	-webkit-box-orient: vertical;
+}
+
+/* On mouse hover, change the 3-line limit to 10 lines limit */
+selector .elementor-grid-item:hover .elementor-heading-title {
+	-webkit-line-clamp: 10;
+}

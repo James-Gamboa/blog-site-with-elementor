@@ -1,0 +1,26 @@
+# wp-config.php
+wp-config.php
+
+# WordPress directories
+wp-content/uploads/
+wp-content/cache/
+wp-content/upgrade/
+
+# Server files
+.htaccess
+.env
+
+# Logs and backups
+*.log
+*.bak
+*.backup
+
+# Node modules
+node_modules/
+
+# Composer dependencies
+vendor/
+
+# System files
+.DS_Store
+Thumbs.db
