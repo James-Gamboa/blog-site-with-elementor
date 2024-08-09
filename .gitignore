@@ -1,5 +1,6 @@
-# wp-config.php
+# Exclude wp-config.php and wp-config-sample.php
 wp-config.php
+wp-config-sample.php
 
 # WordPress directories
 wp-content/uploads/
