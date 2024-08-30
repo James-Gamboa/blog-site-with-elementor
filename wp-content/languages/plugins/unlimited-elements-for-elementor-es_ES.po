@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the Plugins - Unlimited Elements For Elementor (Free Widgets, Addons, Templates) - Development (trunk) package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-08-15 19:12:57+0000\n"
+"PO-Revision-Date: 2024-08-25 18:27:06+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -47,7 +47,7 @@ msgstr "Cubrirá el bloque padre en la vista pública de la web."
 msgid "Background Placeholder for "
 msgstr "Marcador de posición de fondo para "
 
-#: provider/provider_settings.class.php:2832
+#: provider/provider_settings.class.php:2831
 msgid "Current Product Gallery"
 msgstr "Galería de productos actuales"
 
@@ -71,31 +71,31 @@ msgstr "2 dígitos del código de idioma. por ejemplo: «fr» (francés) para la
 msgid "Language Code"
 msgstr "Código de idioma"
 
-#: provider/provider_settings.class.php:3028
+#: provider/provider_settings.class.php:3027
 msgid "Strikethrough"
 msgstr "Tachado"
 
-#: provider/provider_settings.class.php:3024
+#: provider/provider_settings.class.php:3023
 msgid "Overline"
 msgstr "Sobrerayado"
 
-#: provider/provider_settings.class.php:3020
+#: provider/provider_settings.class.php:3019
 msgid "Underline"
 msgstr "Subrayado"
 
-#: provider/provider_settings.class.php:3005
+#: provider/provider_settings.class.php:3004
 msgid "Italic"
 msgstr "Cursiva"
 
-#: provider/provider_settings.class.php:2986
+#: provider/provider_settings.class.php:2985
 msgid "Lowercase"
 msgstr "Minúsculas"
 
-#: provider/provider_settings.class.php:2982
+#: provider/provider_settings.class.php:2981
 msgid "Uppercase"
 msgstr "Mayúsculas"
 
-#: provider/provider_settings.class.php:2978
+#: provider/provider_settings.class.php:2977
 msgid "Capitalize"
 msgstr "Capitalizar"
 
@@ -114,7 +114,7 @@ msgstr "Bloque"
 msgid "Blocks"
 msgstr "Bloques"
 
-#: provider/provider_settings.class.php:2833
+#: provider/provider_settings.class.php:2832
 msgid "Current Product Variations"
 msgstr "Variaciones del producto actual"
 
@@ -475,53 +475,53 @@ msgstr "min"
 msgid "h"
 msgstr "h"
 
-#: provider/provider_settings.class.php:3309
+#: provider/provider_settings.class.php:3308
 msgid "Hue"
 msgstr "Tono"
 
-#: provider/provider_settings.class.php:3296
+#: provider/provider_settings.class.php:3295
 msgid "Saturation"
 msgstr "Saturación"
 
-#: provider/provider_settings.class.php:3283
+#: provider/provider_settings.class.php:3282
 msgid "Contrast"
 msgstr "Contraste"
 
-#: provider/provider_settings.class.php:3270
+#: provider/provider_settings.class.php:3269
 msgid "Brightness"
 msgstr "Brillo"
 
 #: provider/provider_settings.class.php:1071
 #: provider/provider_settings.class.php:1241
-#: provider/provider_settings.class.php:3220
+#: provider/provider_settings.class.php:3219
 msgid "Position"
 msgstr "Posición"
 
-#: provider/provider_settings.class.php:3211
+#: provider/provider_settings.class.php:3210
 msgid "Inset"
 msgstr "Hundido"
 
-#: provider/provider_settings.class.php:3210
+#: provider/provider_settings.class.php:3209
 msgid "Outline"
 msgstr "Contorno"
 
-#: provider/provider_settings.class.php:3206
+#: provider/provider_settings.class.php:3205
 msgid "Spread"
 msgstr "Extender"
 
-#: provider/provider_settings.class.php:3124
-#: provider/provider_settings.class.php:3180
+#: provider/provider_settings.class.php:3123
+#: provider/provider_settings.class.php:3179
 msgid "Vertical"
 msgstr "Vertical"
 
-#: provider/provider_settings.class.php:3111
-#: provider/provider_settings.class.php:3167
+#: provider/provider_settings.class.php:3110
+#: provider/provider_settings.class.php:3166
 msgid "Horizontal"
 msgstr "Horizontal"
 
-#: provider/provider_settings.class.php:3098
-#: provider/provider_settings.class.php:3193
-#: provider/provider_settings.class.php:3257
+#: provider/provider_settings.class.php:3097
+#: provider/provider_settings.class.php:3192
+#: provider/provider_settings.class.php:3256
 msgid "Blur"
 msgstr "Desenfoque"
 
@@ -571,23 +571,23 @@ msgstr "%s%%"
 msgid "%s hPa"
 msgstr "%s hPa"
 
-#: provider/provider_settings.class.php:3067
+#: provider/provider_settings.class.php:3066
 msgid "Word Spacing"
 msgstr "Espaciado entre palabras"
 
-#: provider/provider_settings.class.php:3052
+#: provider/provider_settings.class.php:3051
 msgid "Letter Spacing"
 msgstr "Espaciado entre caracteres"
 
-#: provider/provider_settings.class.php:3038
+#: provider/provider_settings.class.php:3037
 msgid "Decoration"
 msgstr "Decoración"
 
-#: provider/provider_settings.class.php:2996
+#: provider/provider_settings.class.php:2995
 msgid "Transform"
 msgstr "Transformación"
 
-#: provider/provider_settings.class.php:2943
+#: provider/provider_settings.class.php:2942
 msgid "Weight"
 msgstr "Peso"
 
@@ -1334,6 +1334,10 @@ msgstr "Obtén la consulta actual como base de consulta. Bueno para la personali
 msgid "Current Query as a Base"
 msgstr "Consulta actual como base"
 
+#: provider/gutenberg_integrate.class.php:97
+msgid "Elementor Widgets"
+msgstr "Widgets de Elementor"
+
 #: provider/core/plugins/unlimited_elements/provider_core_admin.class.php:105
 #: provider/core/unlimited_elements/provider_core_admin.class.php:115
 #: views/templates/menu.php:7
@@ -1790,22 +1794,22 @@ msgid "Disable Third Party Modifications"
 msgstr "Desactiva modificaciones de terceros"
 
 #: provider/core/plugins/unlimited_elements/elementor/elementor_integrate.class.php:966
-#: provider/core/unlimited_elements/elementor/elementor_integrate.class.php:849
+#: provider/core/unlimited_elements/elementor/elementor_integrate.class.php:851
 msgid "Layout Foreground"
 msgstr "Diseño de primer plano"
 
 #: provider/core/plugins/unlimited_elements/elementor/elementor_integrate.class.php:965
-#: provider/core/unlimited_elements/elementor/elementor_integrate.class.php:848
+#: provider/core/unlimited_elements/elementor/elementor_integrate.class.php:850
 msgid "Layout Background"
 msgstr "Diseño de fondo"
 
 #: provider/core/plugins/unlimited_elements/elementor/elementor_integrate.class.php:964
-#: provider/core/unlimited_elements/elementor/elementor_integrate.class.php:847
+#: provider/core/unlimited_elements/elementor/elementor_integrate.class.php:849
 msgid "Site Body Foreground"
 msgstr "Fondo del cuerpo del sitio"
 
 #: provider/core/plugins/unlimited_elements/elementor/elementor_integrate.class.php:963
-#: provider/core/unlimited_elements/elementor/elementor_integrate.class.php:846
+#: provider/core/unlimited_elements/elementor/elementor_integrate.class.php:848
 msgid "Site Body Background"
 msgstr "Fondo del cuerpo del sitio"
 
@@ -2131,11 +2135,11 @@ msgstr "Paso de la animación (seg)"
 msgid "Disable Pagination Pane"
 msgstr "Desactiva el panel de paginación"
 
-#: provider/provider_settings.class.php:2406
+#: provider/provider_settings.class.php:2405
 msgid "Select the name of the second parent for connetion both parents in one click"
 msgstr "Selecciona el nombre del segundo padre para conectar ambos padres con un solo clic"
 
-#: provider/provider_settings.class.php:2403
+#: provider/provider_settings.class.php:2402
 msgid "Connect To One More Parent"
 msgstr "Conectar a un padre más"
 
@@ -2159,8 +2163,8 @@ msgid "Current Post Data"
 msgstr "Datos de la entrada actual"
 
 #: provider/provider_settings.class.php:2191
-msgid "Override Number Of %s, leave empty for default. If you are using pagination widget, leave it empty"
-msgstr "Sobrescribir número de %s, dejar vacío por defecto. Si utilizas el widget de paginación, déjalo vacío."
+msgid "Override Number Of %s, remain empty for default. If you are using pagination widget, leave it empty"
+msgstr "Anular número de %s, dejar vacío por defecto. Si utilizas el widget de paginación, déjalo vacío"
 
 #: inc_php/unitecreator_entrance_animations.class.php:120
 msgid "Animation Duration (sec)"
@@ -2318,27 +2322,27 @@ msgstr "Al inicio"
 
 #: inc_php/unitecreator_settings.class.php:1651
 #: provider/core/plugins/unlimited_elements/elementor/elementor_integrate.class.php:962
-#: provider/core/unlimited_elements/elementor/elementor_integrate.class.php:845
+#: provider/core/unlimited_elements/elementor/elementor_integrate.class.php:847
 msgid "In Foregroud"
 msgstr "En primer plano"
 
 #: inc_php/unitecreator_settings.class.php:1650
 #: provider/core/plugins/unlimited_elements/elementor/elementor_integrate.class.php:961
-#: provider/core/unlimited_elements/elementor/elementor_integrate.class.php:844
+#: provider/core/unlimited_elements/elementor/elementor_integrate.class.php:846
 msgid "In Background"
 msgstr "En el fondo"
 
 #: inc_php/unitecreator_settings.class.php:1662
 #: provider/core/plugins/unlimited_elements/elementor/elementor_integrate.class.php:957
-#: provider/core/unlimited_elements/elementor/elementor_integrate.class.php:840
+#: provider/core/unlimited_elements/elementor/elementor_integrate.class.php:842
 msgid "Background Location"
 msgstr "Ubicación del fondo"
 
-#: provider/provider_settings.class.php:2262
+#: provider/provider_settings.class.php:2261
 msgid "Give your Query unique ID to been able to filter it in server side using add_filter() function. This feature exists in a PRO Version only. <a target='blank' href='https://unlimited-elements.com/docs/work-with-query-id-in-posts-selection/'>help</a>"
 msgstr "Dale a tu consulta un ID único para poder filtrarla en el servidor usando la función add_filter(). Esta característica solo existe en la versión PRO. <a target='blank' href='https://unlimited-elements.com/docs/work-with-query-id-in-posts-selection/'>ayuda</a>"
 
-#: provider/provider_settings.class.php:2259
+#: provider/provider_settings.class.php:2258
 msgid "Give your Query unique ID to been able to filter it in server side using add_filter() function. <a href='https://unlimited-elements.com/docs/work-with-query-id-in-posts-selection/'><a target='blank' href='https://unlimited-elements.com/docs/work-with-query-id-in-posts-selection/'>See docs here</a></a>."
 msgstr "Dale a tu consulta un ID único para poder filtrarla en el servidor usando la función add_filter(). <a href='https://unlimited-elements.com/docs/work-with-query-id-in-posts-selection/'><a target='blank' href='https://unlimited-elements.com/docs/work-with-query-id-in-posts-selection/'>Ver la documentación aquí</a></a>."
 
@@ -2374,11 +2378,11 @@ msgstr "Segunda clave meta"
 msgid "Add Second Meta Key"
 msgstr "Añadir segunda clave meta"
 
-#: provider/provider_settings.class.php:2754
+#: provider/provider_settings.class.php:2753
 msgid "Meta Field for Video ID"
 msgstr "Campo meta para ID de vídeo"
 
-#: provider/provider_settings.class.php:2744
+#: provider/provider_settings.class.php:2743
 msgid "Meta Field for Item Type"
 msgstr "Campo meta para el tipo de elemento"
 
@@ -2452,7 +2456,7 @@ msgstr "Activar filtrado de entradas"
 msgid "Enable Ajax / Filters Options"
 msgstr "Activar Ajax/opciones de filtro"
 
-#: provider/provider_settings.class.php:2458
+#: provider/provider_settings.class.php:2457
 msgid "Enable Sync and Remote"
 msgstr "Activar sincronización y control remoto"
 
@@ -2464,7 +2468,7 @@ msgstr "Incluir por valor meta 3"
 msgid "Include by Meta Value 2"
 msgstr "Incluir por valor meta 2"
 
-#: provider/provider_settings.class.php:2343
+#: provider/provider_settings.class.php:2342
 msgid "Sync slide run with other widgets"
 msgstr "Sincroniza la ejecución de diapositivas con otros widgets"
 
@@ -2488,18 +2492,18 @@ msgstr "Sincronizar grupo 7"
 msgid "Sync Group 6"
 msgstr "Sincronizar grupo 6"
 
-#: provider/provider_settings.class.php:2372
-#: provider/provider_settings.class.php:2432
-#: provider/provider_settings.class.php:2498
+#: provider/provider_settings.class.php:2371
+#: provider/provider_settings.class.php:2431
+#: provider/provider_settings.class.php:2497
 msgid "Show Debug"
 msgstr "Muestra depuración"
 
-#: provider/provider_settings.class.php:2358
-#: provider/provider_settings.class.php:2473
+#: provider/provider_settings.class.php:2357
+#: provider/provider_settings.class.php:2472
 msgid "Sync Group"
 msgstr "Sincronizar grupo"
 
-#: provider/provider_settings.class.php:2353
+#: provider/provider_settings.class.php:2352
 msgid "Choose the sync group"
 msgstr "Elige el grupo de sincronización"
 
@@ -2535,46 +2539,46 @@ msgstr "Opciones del filtro de entradas"
 msgid "Has Filter Option"
 msgstr "Opción tiene filtro"
 
-#: provider/provider_settings.class.php:2424
+#: provider/provider_settings.class.php:2423
 msgid "Custom Parent Name"
 msgstr "Nombre de padre personalizado"
 
-#: provider/provider_settings.class.php:2393
-#: provider/provider_settings.class.php:2414
-#: provider/provider_settings.class.php:2489
+#: provider/provider_settings.class.php:2392
+#: provider/provider_settings.class.php:2413
+#: provider/provider_settings.class.php:2488
 msgid "Remote Parent Name"
 msgstr "Nombre del padre remoto"
 
-#: provider/provider_settings.class.php:2389
+#: provider/provider_settings.class.php:2388
 msgid "Select the name of the parent for connetion"
 msgstr "Selecciona el nombre del padre para la conexión"
 
-#: provider/provider_settings.class.php:2345
+#: provider/provider_settings.class.php:2344
 msgid "Sync"
 msgstr "Sincronizar"
 
-#: provider/provider_settings.class.php:2370
+#: provider/provider_settings.class.php:2369
 msgid "Show information about remote widgets that connected to this widget. Please turn off this option before release"
 msgstr "Muestra información sobre los widgets remotos conectados a este widget. Por favor, desactiva esta opción antes del lanzamiento"
 
-#: provider/provider_settings.class.php:2322
+#: provider/provider_settings.class.php:2321
 msgid "Widget Name for Connection"
 msgstr "Nombre del widget para la conexión"
 
-#: provider/provider_settings.class.php:2317
+#: provider/provider_settings.class.php:2316
 msgid "This name will be used to connect and control this widget by other widgets"
 msgstr "Este nombre se utilizará para conectar y controlar este widget por otros widgets"
 
-#: provider/provider_settings.class.php:2309
+#: provider/provider_settings.class.php:2308
 msgid "Enable Remote Connection"
 msgstr "Activar conexión remota"
 
-#: provider/provider_settings.class.php:2307
+#: provider/provider_settings.class.php:2306
 msgid "Enable the remote connection functionality for this widget"
 msgstr "Activar la funcionalidad de conexión remota para este widget"
 
 #: provider/provider_helper.class.php:248
-#: provider/provider_settings.class.php:2328
+#: provider/provider_settings.class.php:2327
 msgid "Custom Name"
 msgstr "Nombre personalizado"
 
@@ -2619,7 +2623,7 @@ msgstr "Padre remoto"
 msgid "Remote"
 msgstr "Remoto"
 
-#: provider/provider_settings.class.php:2819
+#: provider/provider_settings.class.php:2818
 msgid "Image Items"
 msgstr "Elementos de imagen"
 
@@ -2660,7 +2664,7 @@ msgstr "PX, VH, %"
 msgid "Enable Video Items"
 msgstr "Activar elementos de vídeo"
 
-#: provider/provider_settings.class.php:2817
+#: provider/provider_settings.class.php:2816
 msgid "Image And Video Items"
 msgstr "Elementos de imagen y de vídeo"
 
@@ -2794,7 +2798,7 @@ msgstr "Atributo especial"
 msgid "By Filter Hook"
 msgstr "Por gancho de filtro"
 
-#: provider/provider_settings.class.php:2848
+#: provider/provider_settings.class.php:2847
 msgid "Source"
 msgstr "Origen"
 
@@ -2856,78 +2860,78 @@ msgstr "[No hay ninguna plantilla seleccionada]"
 msgid "Items Source"
 msgstr "Origen de los elementos"
 
-#: provider/provider_settings.class.php:2837
+#: provider/provider_settings.class.php:2836
 msgid "Current Post Metafield"
 msgstr "Campo meta de la entrada actual"
 
-#: provider/provider_settings.class.php:2801
+#: provider/provider_settings.class.php:2800
 msgid " Item Template"
 msgstr " Plantilla de elementos"
 
-#: provider/provider_settings.class.php:2796
+#: provider/provider_settings.class.php:2795
 msgid "Gallery Items "
 msgstr "Elementos de galería "
 
-#: provider/provider_settings.class.php:2713
+#: provider/provider_settings.class.php:2712
 msgid "Big Image Size"
 msgstr "Tamaño de imagen grande"
 
-#: provider/provider_settings.class.php:2701
+#: provider/provider_settings.class.php:2700
 msgid "Thumb Image Size"
 msgstr "Tamaño de la miniatura de imagen"
 
-#: provider/provider_settings.class.php:2648
+#: provider/provider_settings.class.php:2647
 msgid "Debug - Show Meta Fields"
 msgstr "Depuración - mostrar campos meta"
 
-#: provider/provider_settings.class.php:2645
+#: provider/provider_settings.class.php:2644
 msgid "Show the current post meta fields, turn off it after choose the right one"
 msgstr "Muestra los campos meta de la entrada actual, desactívalo después de elegir el correcto"
 
-#: provider/provider_settings.class.php:2629
-#: provider/provider_settings.class.php:2684
+#: provider/provider_settings.class.php:2628
+#: provider/provider_settings.class.php:2683
 msgid "Image Description Source"
 msgstr "Origen de la descripción de imagen"
 
-#: provider/provider_settings.class.php:2618
-#: provider/provider_settings.class.php:2672
+#: provider/provider_settings.class.php:2617
+#: provider/provider_settings.class.php:2671
 msgid "Image Title Source"
 msgstr "Origen del título de imagen"
 
 #: inc_php/unitecreator_client_text.php:116
-#: provider/provider_settings.class.php:2594
+#: provider/provider_settings.class.php:2593
 msgid "Choose Images"
 msgstr "Elegir imágenes"
 
-#: provider/provider_settings.class.php:2568
+#: provider/provider_settings.class.php:2567
 msgid "Image Description"
 msgstr "Descripción de imagen"
 
-#: provider/provider_settings.class.php:2565
+#: provider/provider_settings.class.php:2564
 msgid "Post Content"
 msgstr "Contenido de la entrada"
 
-#: provider/provider_settings.class.php:2551
-#: provider/provider_settings.class.php:2571
+#: provider/provider_settings.class.php:2550
+#: provider/provider_settings.class.php:2570
 msgid "Image Caption"
 msgstr "Leyenda de imagen"
 
-#: provider/provider_settings.class.php:2550
-#: provider/provider_settings.class.php:2570
+#: provider/provider_settings.class.php:2549
+#: provider/provider_settings.class.php:2569
 msgid "Image Alt"
 msgstr "Atributo «alt» de la imagen"
 
-#: provider/provider_settings.class.php:2549
-#: provider/provider_settings.class.php:2569
+#: provider/provider_settings.class.php:2548
+#: provider/provider_settings.class.php:2568
 msgid "Image Title"
 msgstr "Título de la imagen"
 
-#: provider/provider_settings.class.php:2548
+#: provider/provider_settings.class.php:2547
 msgid "Image Auto (title or alt or caption)"
 msgstr "Automático de la imagen (título o alt de la imagen o leyenda)"
 
-#: provider/provider_settings.class.php:2545
-#: provider/provider_settings.class.php:2563
+#: provider/provider_settings.class.php:2544
+#: provider/provider_settings.class.php:2562
 msgid "Post Excerpt"
 msgstr "Extracto de la entrada"
 
@@ -2956,7 +2960,7 @@ msgstr "Galería "
 #: inc_php/unitecreator_settings.class.php:1843
 #: provider/core/plugins/unlimited_elements/elementor/elementor_widget.class.php:2728
 #: provider/core/unlimited_elements/elementor/elementor_widget.class.php:2729
-#: provider/provider_settings.class.php:2794
+#: provider/provider_settings.class.php:2793
 msgid "Items "
 msgstr "Elementos "
 
@@ -2969,7 +2973,7 @@ msgid "Use For"
 msgstr "Usa para"
 
 #: inc_php/unitecreator_dialog_param.class.php:842
-#: provider/provider_settings.class.php:2814
+#: provider/provider_settings.class.php:2813
 msgid "Gallery"
 msgstr "Galería"
 
@@ -3114,7 +3118,7 @@ msgstr "Muestra selección de tamaños de imagen"
 
 #: inc_php/unitecreator_settings.class.php:1022
 #: provider/provider_helper.class.php:365
-#: provider/provider_settings.class.php:2957
+#: provider/provider_settings.class.php:2956
 msgid "Size"
 msgstr "Tamaño"
 
@@ -3124,12 +3128,12 @@ msgid "Not Chosen"
 msgstr "No elegido"
 
 #: provider/provider_settings.class.php:750
-#: provider/provider_settings.class.php:2287
+#: provider/provider_settings.class.php:2286
 msgid "Debug Options"
 msgstr "Opciones de depuración"
 
 #: provider/provider_settings.class.php:745
-#: provider/provider_settings.class.php:2279
+#: provider/provider_settings.class.php:2278
 msgid "Basic"
 msgstr "Básico"
 
@@ -3292,7 +3296,7 @@ msgstr "Incluir por clave meta"
 
 #: provider/provider_settings.class.php:527
 #: provider/provider_settings.class.php:1711
-#: provider/provider_settings.class.php:2639
+#: provider/provider_settings.class.php:2638
 msgid "Meta Key"
 msgstr "Clave meta"
 
@@ -3442,7 +3446,7 @@ msgid "Past Day"
 msgstr "El último día"
 
 #: provider/provider_settings.class.php:2177
-#: provider/provider_settings.class.php:2196
+#: provider/provider_settings.class.php:2195
 msgid "Max %s"
 msgstr "%s máximo"
 
@@ -3554,17 +3558,17 @@ msgid "Product"
 msgstr "Producto"
 
 #: provider/provider_settings.class.php:1389
-#: provider/provider_settings.class.php:2828
+#: provider/provider_settings.class.php:2827
 msgid "Products"
 msgstr "Productos"
 
 #: provider/provider_settings.class.php:1385
-#: provider/provider_settings.class.php:2824
+#: provider/provider_settings.class.php:2823
 msgid "Posts"
 msgstr "Entradas"
 
-#: provider/provider_settings.class.php:2544
-#: provider/provider_settings.class.php:2564
+#: provider/provider_settings.class.php:2543
+#: provider/provider_settings.class.php:2563
 msgid "Post Title"
 msgstr "Título de la entrada"
 
@@ -3656,7 +3660,7 @@ msgstr "Widget instalado"
 #: provider/provider_settings.class.php:1087
 #: provider/provider_settings.class.php:1104
 #: provider/provider_settings.class.php:1128
-#: provider/provider_settings.class.php:2912
+#: provider/provider_settings.class.php:2911
 msgid "Default"
 msgstr "Por defecto"
 
@@ -4468,7 +4472,7 @@ msgstr "[Todos los perfiles]"
 
 #: provider/functions_wordpress.class.php:3384
 #: provider/provider_settings.class.php:746
-#: provider/provider_settings.class.php:2280
+#: provider/provider_settings.class.php:2279
 msgid "Full"
 msgstr "Lleno"
 
@@ -5025,79 +5029,79 @@ msgid "No settings for this background"
 msgstr "No hay ajustes para este fondo"
 
 #: provider/core/plugins/unlimited_elements/elementor/elementor_integrate.class.php:1417
-#: provider/core/unlimited_elements/elementor/elementor_integrate.class.php:1300
+#: provider/core/unlimited_elements/elementor/elementor_integrate.class.php:1302
 msgid "Export With Images"
 msgstr "Exportar con imágenes"
 
 #: provider/core/plugins/unlimited_elements/elementor/elementor_integrate.class.php:1173
-#: provider/core/unlimited_elements/elementor/elementor_integrate.class.php:1056
+#: provider/core/unlimited_elements/elementor/elementor_integrate.class.php:1058
 msgid "Import Now"
 msgstr "Importar ahora"
 
 #: provider/core/plugins/unlimited_elements/elementor/elementor_integrate.class.php:1167
-#: provider/core/unlimited_elements/elementor/elementor_integrate.class.php:1050
+#: provider/core/unlimited_elements/elementor/elementor_integrate.class.php:1052
 msgid "Choose an Elementor template .zip file, that you exported using \"export with images\" button"
 msgstr "Elige un archivo .zip de plantilla de Elementor, que hayas exportado usando el botón «exportar con imágenes»."
 
 #: provider/core/plugins/unlimited_elements/elementor/elementor_integrate.class.php:1164
-#: provider/core/unlimited_elements/elementor/elementor_integrate.class.php:1047
+#: provider/core/unlimited_elements/elementor/elementor_integrate.class.php:1049
 msgid "Import Template With Images"
 msgstr "Importar plantilla con imágenes"
 
 #: provider/core/plugins/unlimited_elements/elementor/elementor_integrate.class.php:1119
-#: provider/core/unlimited_elements/elementor/elementor_integrate.class.php:1002
+#: provider/core/unlimited_elements/elementor/elementor_integrate.class.php:1004
 msgid "Layout Imported Successfully"
 msgstr "Diseño importado con éxito"
 
 #: provider/core/plugins/unlimited_elements/elementor/elementor_integrate.class.php:1118
-#: provider/core/unlimited_elements/elementor/elementor_integrate.class.php:1001
+#: provider/core/unlimited_elements/elementor/elementor_integrate.class.php:1003
 msgid "Uploading layout file..."
 msgstr "Subiendo archivo de diseño…"
 
 #: provider/core/plugins/unlimited_elements/elementor/elementor_integrate.class.php:1117
-#: provider/core/unlimited_elements/elementor/elementor_integrate.class.php:1000
+#: provider/core/unlimited_elements/elementor/elementor_integrate.class.php:1002
 msgid "Import VC Layout"
 msgstr "Importar diseño de VC"
 
 #: provider/core/plugins/unlimited_elements/elementor/elementor_integrate.class.php:1107
-#: provider/core/unlimited_elements/elementor/elementor_integrate.class.php:990
+#: provider/core/unlimited_elements/elementor/elementor_integrate.class.php:992
 #: views/objects/layouts_view.class.php:279
 msgid "Overwrite Addons"
 msgstr "Sobrescribir extensiones"
 
 #: provider/core/plugins/unlimited_elements/elementor/elementor_integrate.class.php:1093
-#: provider/core/unlimited_elements/elementor/elementor_integrate.class.php:976
+#: provider/core/unlimited_elements/elementor/elementor_integrate.class.php:978
 msgid "Select vc layout export file (zip)"
 msgstr "Selecciona el archivo de diseño VC para exportar (zip)"
 
 #: provider/core/plugins/unlimited_elements/elementor/elementor_integrate.class.php:1084
-#: provider/core/unlimited_elements/elementor/elementor_integrate.class.php:967
+#: provider/core/unlimited_elements/elementor/elementor_integrate.class.php:969
 msgid "Import Unlimited Elements Layout to Elementor"
 msgstr "Importar diseño de Unlimited Elements en Elementor"
 
 #: provider/core/plugins/unlimited_elements/elementor/elementor_integrate.class.php:937
-#: provider/core/unlimited_elements/elementor/elementor_integrate.class.php:820
+#: provider/core/unlimited_elements/elementor/elementor_integrate.class.php:822
 #: views/objects/addon_view.class.php:1008
 msgid "click here"
 msgstr "haz clic aquí"
 
 #: provider/core/plugins/unlimited_elements/elementor/elementor_integrate.class.php:936
-#: provider/core/unlimited_elements/elementor/elementor_integrate.class.php:819
+#: provider/core/unlimited_elements/elementor/elementor_integrate.class.php:821
 msgid "To install more backgrounds"
 msgstr "Para instalar más fondos"
 
 #: provider/core/plugins/unlimited_elements/elementor/elementor_integrate.class.php:927
-#: provider/core/unlimited_elements/elementor/elementor_integrate.class.php:810
+#: provider/core/unlimited_elements/elementor/elementor_integrate.class.php:812
 msgid "Background Type"
 msgstr "Tipo de fondo"
 
 #: provider/core/plugins/unlimited_elements/elementor/elementor_integrate.class.php:920
-#: provider/core/unlimited_elements/elementor/elementor_integrate.class.php:803
+#: provider/core/unlimited_elements/elementor/elementor_integrate.class.php:805
 msgid "Unlimited Background"
 msgstr "Fondos ilimitados"
 
 #: provider/core/plugins/unlimited_elements/elementor/elementor_integrate.class.php:904
-#: provider/core/unlimited_elements/elementor/elementor_integrate.class.php:787
+#: provider/core/unlimited_elements/elementor/elementor_integrate.class.php:789
 msgid "[No Background]"
 msgstr "[Sin fondo]"
 
@@ -5189,7 +5193,7 @@ msgstr "Sí"
 msgid "Styles"
 msgstr "Estilos"
 
-#: provider/provider_settings.class.php:3001
+#: provider/provider_settings.class.php:3000
 msgid "Normal"
 msgstr "Normal"
 
@@ -5257,32 +5261,32 @@ msgstr "Por favor, introduce tu nombre"
 #: provider/provider_settings.class.php:368
 #: provider/provider_settings.class.php:726
 #: provider/provider_settings.class.php:964
-#: provider/provider_settings.class.php:2275
+#: provider/provider_settings.class.php:2274
 msgid "Show Query Debug"
 msgstr "Muestra depuración de consulta"
 
 #: provider/provider_settings.class.php:366
 #: provider/provider_settings.class.php:724
 #: provider/provider_settings.class.php:962
-#: provider/provider_settings.class.php:2273
+#: provider/provider_settings.class.php:2272
 msgid "Show the query for debugging purposes. Don't forget to turn it off before page release"
 msgstr "Muestra la consulta con fines de depuración. No te olvides de desactivarlo antes del lanzamiento de la página"
 
-#: provider/provider_settings.class.php:2261
+#: provider/provider_settings.class.php:2260
 msgid "Query ID (pro)"
 msgstr "ID de consulta (pro)"
 
 #: provider/provider_settings.class.php:732
-#: provider/provider_settings.class.php:2258
+#: provider/provider_settings.class.php:2257
 msgid "Query ID"
 msgstr "ID de la consulta"
 
-#: provider/provider_settings.class.php:2240
+#: provider/provider_settings.class.php:2239
 msgid "&nbsp;&nbsp;Order By Direction"
 msgstr "&nbsp;&nbsp;Ordenar por dirección"
 
 #: provider/provider_settings.class.php:697
-#: provider/provider_settings.class.php:2231
+#: provider/provider_settings.class.php:2230
 msgid "&nbsp;&nbsp;Custom Field Name"
 msgstr "&nbsp;&nbsp;Nombre de campo personalizado"
 
@@ -5405,7 +5409,7 @@ msgstr "Dirección del orden"
 #: provider/provider_settings.class.php:305
 #: provider/provider_settings.class.php:684
 #: provider/provider_settings.class.php:884
-#: provider/provider_settings.class.php:2219
+#: provider/provider_settings.class.php:2218
 msgid "Order By"
 msgstr "Ordenar por"
 
@@ -5808,7 +5812,7 @@ msgstr "Mapa de Google"
 
 #: inc_php/unitecreator_client_text.php:107
 #: inc_php/unitecreator_dialog_param.class.php:203
-#: provider/provider_settings.class.php:2821
+#: provider/provider_settings.class.php:2820
 msgid "Instagram"
 msgstr "Instagram"
 
@@ -6113,7 +6117,7 @@ msgstr "Modo de movimiento"
 
 #: inc_php/framework/settings_output.class.php:2316
 #: inc_php/unitecreator_params_editor.class.php:131
-#: provider/provider_settings.class.php:3015
+#: provider/provider_settings.class.php:3014
 #: views/objects/mappicker_view.class.php:104
 msgid "Style"
 msgstr "Estilo"
@@ -7811,8 +7815,8 @@ msgstr "Estilo de la fuente"
 #: provider/core/unlimited_elements/elementor/elementor_widget.class.php:1238
 #: provider/core/unlimited_elements/elementor/elementor_widget.class.php:1353
 #: provider/provider_settings.class.php:1028
-#: provider/provider_settings.class.php:3085
-#: provider/provider_settings.class.php:3154
+#: provider/provider_settings.class.php:3084
+#: provider/provider_settings.class.php:3153
 msgid "Color"
 msgstr "Color"
 
@@ -7821,7 +7825,7 @@ msgid "Text Decoration"
 msgstr "Decoración del texto"
 
 #: inc_php/unitecreator_settings_output.class.php:945
-#: provider/provider_settings.class.php:2972
+#: provider/provider_settings.class.php:2971
 msgid "Line Height"
 msgstr "Altura de línea"
 
@@ -7842,7 +7846,7 @@ msgid "Font Weight"
 msgstr "Peso de la fuente"
 
 #: inc_php/unitecreator_settings_output.class.php:917
-#: provider/provider_settings.class.php:2931
+#: provider/provider_settings.class.php:2930
 msgid "Font Family"
 msgstr "Familia de fuentes"
 
